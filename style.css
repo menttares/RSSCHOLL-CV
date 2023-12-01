@@ -1,0 +1,51 @@
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.Curriculum-vitae {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.Curriculum-vitae__title {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing: 10%;
+}
+
+.Curriculum-vitae__name {
+    text-align: center;
+    font-weight: normal;
+    font-size: 21px;
+    text-transform:capitalize;
+
+    margin-bottom: 20px;
+}
+
+.Curriculum-vitae__container-description {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.Curriculum-vitae__colum {
+    max-width: 500px;
+}
+
+.Curriculum-vitae__avatar {
+    max-width: 200px;
+}
+
+.Curriculum-vitae__description-title {
+    text-align: center;
+    font-size: 21px;
+
+}
+
+li {
+    margin-bottom: 10px;
+}
